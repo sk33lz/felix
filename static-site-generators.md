@@ -9,3 +9,5 @@ See https://www.staticgen.com/ for nice usage stats.
 - Gatsby, https://github.com/gatsbyjs/gatsby, MIT license.
 - Next.js, https://www.staticgen.com/nextjs, MIT license.
 - Slate, https://github.com/slatedocs/slate, Apache 2.0 license.
+
+[Back to Felix](https://github.com/sk33lz/felix)
